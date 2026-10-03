@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Task Ado": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
